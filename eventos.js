@@ -167,7 +167,7 @@ function handClitT(event){
 window.addEventListener('keydown', handClitT)
 
 
-//1:04
+
 
 
 
